@@ -1,1 +1,9 @@
-NumPy is the fundamental package for scientific computing in Python. It is a Python library that provides a multidimensional array object, various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation and much more.
+# NumPy Practice Notebook
+This repository contains a practice notebook for learning and practicing NumPy, a powerful library for numerical computing in Python.
+# Table of Contents
+   - What and Why NumPy?
+   - Install and Import NumPy.
+   - Array Creation.
+   - Indexing and Slicing Array.
+   - Array Mathematics.
+* Happy coding and enjoy your NumPy practice journey! *
