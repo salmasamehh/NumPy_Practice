@@ -6,4 +6,4 @@ This repository contains a practice notebook for learning and practicing NumPy, 
    - Array Creation.
    - Indexing and Slicing Array.
    - Array Mathematics.
-* Happy coding and enjoy your NumPy practice journey! *
+**Happy coding and enjoy your NumPy practice journey!**
